@@ -1,0 +1,2 @@
+# 360VIO: A Robust Visual-Inertial Odometry Using a 360-Degree Camera
+The repo of the paper "360VIO: A Robust Visual-Inertial Odometry Using a 360-Degree Camera". All materials will be made public upon acceptance of the paper.
